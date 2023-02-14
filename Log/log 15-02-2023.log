@@ -1,0 +1,14 @@
+15/02/2023 00:04:03 Event: Twitter/TaskRun : Enters the Twitter task and performs an infinite loop 
+15/02/2023 00:05:39 Event: Twitter/TaskRun : Enters the Twitter task and performs an infinite loop 
+15/02/2023 00:05:39 Event: CommandManager : enters the init function 
+15/02/2023 00:05:39 Event: Activist/GetActivistById : Get Activist 
+15/02/2023 00:05:39 Event: Twitter/TaskTwitter : Checks new tweets for each user 
+15/02/2023 00:05:39 Error: Twitter/TaskTwitter : Operations that change non-concurrent collections must have exclusive access. A concurrent update was performed on this collection and corrupted its state. The collection's state is no longer correct. Exception: System.Private.CoreLib 
+15/02/2023 00:05:39 Error: Activist/GetActivistById : Unable to cast object of type 'System.Collections.Generic.Dictionary`2[System.String,PromoIt.Model.Activist]' to type 'System.Collections.Hashtable'. Exception: System.Private.CoreLib 
+15/02/2023 00:05:39 Event: Activist/GetActivistById : Get Activist 
+15/02/2023 00:05:40 Error: Activist/GetActivistById : Unable to cast object of type 'System.Collections.Generic.Dictionary`2[System.String,PromoIt.Model.Activist]' to type 'System.Collections.Hashtable'. Exception: System.Private.CoreLib 
+15/02/2023 00:05:40 Event: Activist/GetActivistById : Get Activist 
+15/02/2023 00:05:40 Error: Activist/GetActivistById : Unable to cast object of type 'System.Collections.Generic.Dictionary`2[System.String,PromoIt.Model.Activist]' to type 'System.Collections.Hashtable'. Exception: System.Private.CoreLib 
+15/02/2023 00:05:40 Event: Activist/GetActivistById : Get Activist 
+15/02/2023 00:05:40 Error: Activist/GetActivistById : Unable to cast object of type 'System.Collections.Generic.Dictionary`2[System.String,PromoIt.Model.Activist]' to type 'System.Collections.Hashtable'. Exception: System.Private.CoreLib 
+15/02/2023 00:09:11 Event: Twitter/TaskRun : Enters the Twitter task and performs an infinite loop 

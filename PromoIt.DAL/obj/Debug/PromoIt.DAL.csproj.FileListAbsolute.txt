@@ -1,0 +1,15 @@
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\bin\Debug\PromoIt.DAL.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\bin\Debug\PromoIt.DAL.pdb
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\obj\Debug\PromoIt.DAL.csproj.AssemblyReference.cache
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\obj\Debug\PromoIt.DAL.csproj.CoreCompileInputs.cache
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\obj\Debug\PromoIt.DAL.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\obj\Debug\PromoIt.DAL.pdb
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\obj\Debug\PromoIt.DAL.csproj.CopyComplete
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\bin\Debug\Hammock.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\bin\Debug\TweetSharp.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\bin\Debug\Hammock.pdb
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.DAL\bin\Debug\TweetSharp.pdb

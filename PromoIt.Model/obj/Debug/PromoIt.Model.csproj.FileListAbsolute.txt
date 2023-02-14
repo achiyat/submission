@@ -1,0 +1,13 @@
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\bin\Debug\PromoIt.Model.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\bin\Debug\PromoIt.Model.pdb
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\obj\Debug\PromoIt.Model.csproj.AssemblyReference.cache
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\obj\Debug\PromoIt.Model.csproj.CoreCompileInputs.cache
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\obj\Debug\PromoIt.Model.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\obj\Debug\PromoIt.Model.pdb
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\bin\Debug\Hammock.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\bin\Debug\TweetSharp.dll
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\bin\Debug\Hammock.pdb
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\bin\Debug\TweetSharp.pdb
+C:\Users\achiy\source\repos\NewPromoIt\PromoIt.Model\obj\Debug\PromoIt.Model.csproj.CopyComplete
